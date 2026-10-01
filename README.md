@@ -4,4 +4,4 @@ This repository contains an earlier, single-page prototype of [Fawanees](https:/
 
 The initial concept was developed collaboratively by Ahmed Adwan and Claude. Ahmed implemented most of the code and continued developing the project, with Claude contributing to selected structural changes, refinements, and parts of the development.
 
-The in-page credit in this prototype uses older wording that overstates Claude's role. The contribution statement above reflects the project's authorship more accurately.
+The in-page credit uses the same contribution account as this README.
