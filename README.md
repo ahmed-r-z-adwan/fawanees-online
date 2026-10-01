@@ -2,6 +2,6 @@
 
 This repository contains an earlier, single-page prototype of [Fawanees](https://github.com/ahmed-r-z-adwan/fawanees) with online play.
 
-The initial concept was developed collaboratively by Ahmed Adwan and Claude. Ahmed implemented most of the code and continued developing the project, with Claude contributing to selected structural changes, refinements, and parts of the development.
+The idea was developed together by Ahmed Adwan and Claude. The rules, the balancing, the AI and most of the code were written by Claude. Ahmed directed the work, tested it and published it.
 
 The in-page credit uses the same contribution account as this README.
